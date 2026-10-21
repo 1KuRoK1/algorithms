@@ -7,3 +7,4 @@ obj/
 .vscode/
 .DS_Store
 Thumbs.db
+make_report*.py
